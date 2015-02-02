@@ -1,8 +1,8 @@
 {
     "name": "ijeoma.js",
     "filename": "ijeoma.min.js",
-    "version": "1.0.5",
-    "description": "Lightweight HTML5 canvas library",
+    "version": "1.0.0",
+    "description": "A fufu-powered library for animating HTML5 and javascript properties",
     "homepage": "https://github.com/ekeneijeoma/ijeoma.js",
     "keywords": [
         "canvas",
